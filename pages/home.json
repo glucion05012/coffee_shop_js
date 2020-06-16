@@ -1,0 +1,12 @@
+{
+    "slides1": {
+        "header": "Welcome to Grinders' Hideout.",
+        "subtext": "I hope you enjoy my wide selection of coffee.",
+        "img_bg": "https://lh3.googleusercontent.com/MPdblv7V43COmnv0CH1RBJlSwx1I-ymMd9IIVBXu621PLgFtA3Z65luNASysXXOHz51R4Kop3sz5abdy7qN6JBbKQrg"
+    },
+    "slides2":{
+        "header": "Only the best coffee in town.",
+        "subtext": "We brew only the best coffee.",
+        "img_bg": "https://lh3.googleusercontent.com/1x-FFsUaHFbyfHM_2PR_3Wx4GOYzrzKf3mEGQJEPigf0rny8O5tpx4ApvNUJPjUDaD6OixG-jUzFa9gl_z9rvixBig=s1024"
+    }
+}
